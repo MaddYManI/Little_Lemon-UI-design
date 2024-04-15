@@ -27,7 +27,7 @@ The Final confirmation!!!
 :-------------------------:|
 ![image](https://github.com/MaddYManI/Little_Lemon-UI-design/assets/101639758/8844e999-547d-46d4-9427-add201a63411)
 
-[^1]: https://www.figma.com/file/rtlr7bzI99ev89xUHDUH3a/canvas?type=design&node-id=1-57&t=B7xg8CRsGSKGQo2P-0
+[^1]: [https://www.figma.com/file/rtlr7bzI99ev89xUHDUH3a/canvas?type=design&node-id=1-57&t=B7xg8CRsGSKGQo2P-0](https://www.figma.com/file/rtlr7bzI99ev89xUHDUH3a/canvas?type=design&node-id=1-57&mode=design&t=AqOBko3lOtMWhE2m-0)
 [^2]: https://www.figma.com/file/MCBbhLNSSPd0IMiMKxd9p6/Wire-frame?type=design&node-id=9-353&t=ZYTmojvqB7NFgNVU-0
 
 
